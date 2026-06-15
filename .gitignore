@@ -1,0 +1,15 @@
+.vs/
+out/
+build/
+*.suo
+*.user
+*.sdf
+*.db
+*.db-shm
+*.db-wal
+*.obj
+*.pdb
+*.ilk
+*.log
+*.vsix
+*.slnx
